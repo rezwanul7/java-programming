@@ -2,6 +2,6 @@ package com.rezwanul7;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Java Programming");
+        System.out.println("Poor Man's Java Programming");
     }
 }
